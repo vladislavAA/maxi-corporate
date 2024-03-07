@@ -136,7 +136,7 @@
   appearance: none;
   -webkit-appearance: none;
   -moz-appearance: none;
-  background-image: url("img/icon-arrow.svg");
+  background-image: url("https://vladislavaa.github.io/maxi-corporate/img/icon-arrow.svg");
   background-repeat: no-repeat;
   background-position: calc(100% - 16px) center;
   padding-left: 13px;
@@ -154,7 +154,7 @@
   height: 650px;
   padding-top: 274.5px;
   margin-top: 24px;
-  background-image: url("img/background-video.jpg");
+  background-image: url("https://vladislavaa.github.io/maxi-corporate/img/background-video.jpg");
   background-repeat: no-repeat;
 }
 
@@ -381,7 +381,7 @@
   width: 368.33px;
   height: 199px;
   padding-top: 149px;
-  background-image: url(/img/products-1.jpg);
+  background-image: url(https://vladislavaa.github.io/maxi-corporate/img/products-1.jpg);
 }
 
 .section-products__background-card-title-1 {
@@ -432,7 +432,7 @@
   width: 368.33px;
   height: 199px;
   padding-top: 149px;
-  background-image: url(img/products-2.jpg);
+  background-image: url(https://vladislavaa.github.io/maxi-corporate/img/products-2.jpg);
 }
 
 .section-products__background-card-title-2 {
@@ -483,7 +483,7 @@
   width: 368.33px;
   height: 199px;
   padding-top: 149px;
-  background-image: url(/img/products-3.jpg);
+  background-image: url(https://vladislavaa.github.io/maxi-corporate/img/products-3.jpg);
 }
 
 .section-products__background-card-title-3 {
@@ -509,7 +509,7 @@
   width: 368.33px;
   height: 199px;
   padding-top: 149px;
-  background-image: url(img/products-4.jpg);
+  background-image: url(https://vladislavaa.github.io/maxi-corporate/img/products-4.jpg);
 }
 
 .section-products__background-card-title-4 {
@@ -563,7 +563,7 @@
   padding-left: 159px;
   margin-top: -2px;
   background-color: #092858;
-  background-image: url("img/map.svg");
+  background-image: url("https://vladislavaa.github.io/maxi-corporate/img/map.svg");
   background-repeat: no-repeat;
   background-position: 42% 40%;
 }
@@ -984,11 +984,11 @@
 .section-offers__btn:hover {
   color: #ffffff;
   background-color: #70bd54;
-  content: url(img/icon-arrow-offers-hover.svg);
+  content: url(https://vladislavaa.github.io/maxi-corporate/img/icon-arrow-offers-hover.svg);
 }
 
 .section-offers__btn:hover .section-offers__icon {
-  content: url(img/icon-arrow-offers-hover.svg);
+  content: url(https://vladislavaa.github.io/maxi-corporate/img/icon-arrow-offers-hover.svg);
 }
 
 .section-offers__icon {
@@ -1126,7 +1126,7 @@
   width: 1600px;
   height: 653px;
   margin-top: 42px;
-  background-image: url(img/background-products.jpg);
+  background-image: url(https://vladislavaa.github.io/maxi-corporate/img/background-products.jpg);
   background-size: cover;
   background-position: center 80%;
 }
@@ -1201,7 +1201,7 @@
   margin-left: 160px;
   padding-top: 102px;
   padding-left: 110px;
-  background-image: url(img/background-contact.jpg);
+  background-image: url(https://vladislavaa.github.io/maxi-corporate/img/background-contact.jpg);
 }
 
 .section-contact__line {
@@ -1654,7 +1654,7 @@
     appearance: none;
     -webkit-appearance: none;
     -moz-appearance: none;
-    background-image: url("img/icon-arrow.svg");
+    background-image: url("https://vladislavaa.github.io/maxi-corporate/img/icon-arrow.svg");
     background-repeat: no-repeat;
     background-position: calc(100% - 12px) center;
     padding-left: 11px;
@@ -1671,7 +1671,7 @@
     height: 530px;
     margin-top: 24px;
     padding-top: 215px;
-    background-image: url("img/mobile/background-video.jpg");
+    background-image: url("https://vladislavaa.github.io/maxi-corporate/img/mobile/background-video.jpg");
   }
 
   .section-video__btn-area {
@@ -1889,7 +1889,7 @@
     width: 334.33px;
     height: 180.63px;
     padding-top: 134px;
-    background-image: url(img/mobile/products-1.jpg);
+    background-image: url(https://vladislavaa.github.io/maxi-corporate/img/mobile/products-1.jpg);
   }
 
   .section-products__background-card-title-1 {
@@ -1923,7 +1923,7 @@
     width: 334.33px;
     height: 180.63px;
     padding-top: 134px;
-    background-image: url(img/mobile/products-2.jpg);
+    background-image: url(https://vladislavaa.github.io/maxi-corporate/img/mobile/products-2.jpg);
   }
 
   .section-products__background-card-title-2 {
@@ -1971,7 +1971,7 @@
     width: 334.33px;
     height: 180.63px;
     padding-top: 149px;
-    background-image: url(img/mobile/products-3.jpg);
+    background-image: url(https://vladislavaa.github.io/maxi-corporate/img/mobile/products-3.jpg);
   }
 
   .section-products__background-card-title-3 {
@@ -2008,7 +2008,7 @@
     width: 334.33px;
     height: 180.63px;
     padding-top: 135px;
-    background-image: url(img/mobile/products-4.jpg);
+    background-image: url(https://vladislavaa.github.io/maxi-corporate/img/mobile/products-4.jpg);
   }
 
   .section-products__background-card-title-4 {
@@ -2594,7 +2594,7 @@
     width: 335px;
     height: 204.7px;
     margin-top: 21px;
-    background-image: url(img/mobile/background-products.jpg);
+    background-image: url(https://vladislavaa.github.io/maxi-corporate/img/mobile/background-products.jpg);
     background-size: cover;
     background-position: center 80%;
   }
@@ -2675,7 +2675,7 @@
     margin-left: 20px;
     padding-top: 42px;
     padding-left: 30px;
-    background-image: url(img/mobile/background-contact.jpg);
+    background-image: url(https://vladislavaa.github.io/maxi-corporate/img/mobile/background-contact.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
