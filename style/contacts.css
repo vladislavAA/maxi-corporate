@@ -264,7 +264,7 @@
 .section-experts__cards {
   width: 1600px;
   margin-top: 9px;
-  margin-left: 1px;
+  margin-left: 0px;
   display: flex;
   justify-content: space-between;
 }
