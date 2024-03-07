@@ -1,5 +1,5 @@
-@import url(/style/reset.css);
-@import url(/style/normalize.css);
+@import url(https://vladislavaa.github.io/maxi-corporate/style/reset.css);
+@import url(https://vladislavaa.github.io/maxi-corporate/style/normalize.css);
 
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap");
 
@@ -136,7 +136,7 @@
   appearance: none;
   -webkit-appearance: none;
   -moz-appearance: none;
-  background-image: url("/img/icon-arrow.svg");
+  background-image: url("https://vladislavaa.github.io/maxi-corporate/img/icon-arrow.svg");
   background-repeat: no-repeat;
   background-position: calc(100% - 16px) center;
   padding-left: 13px;
@@ -305,7 +305,7 @@
   padding-left: 159px;
   margin-top: -2px;
   background-color: #092858;
-  background-image: url("/img/map.svg");
+  background-image: url("https://vladislavaa.github.io/maxi-corporate/img/map.svg");
   background-repeat: no-repeat;
   background-position: 10% 40%;
 }
@@ -988,7 +988,7 @@
     appearance: none;
     -webkit-appearance: none;
     -moz-appearance: none;
-    background-image: url("/img/icon-arrow.svg");
+    background-image: url("https://vladislavaa.github.io/maxi-corporate/img/icon-arrow.svg");
     background-repeat: no-repeat;
     background-position: calc(100% - 12px) center;
     padding-left: 11px;
