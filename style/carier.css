@@ -1,5 +1,5 @@
-@import url(/style/reset.css);
-@import url(/style/normalize.css);
+@import url(https://vladislavaa.github.io/maxi-corporate/style/reset.css);
+@import url(https://vladislavaa.github.io/maxi-corporate/style/normalize.css);
 
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap");
 
@@ -136,7 +136,7 @@
   appearance: none;
   -webkit-appearance: none;
   -moz-appearance: none;
-  background-image: url("/img/icon-arrow.svg");
+  background-image: url("https://vladislavaa.github.io/maxi-corporate/img/icon-arrow.svg");
   background-repeat: no-repeat;
   background-position: calc(100% - 16px) center;
   padding-left: 13px;
@@ -227,7 +227,7 @@
   width: 100%;
   height: 279px;
   overflow: hidden;
-  background-image: url(/img/vacancy-img-1.jpg);
+  background-image: url(https://vladislavaa.github.io/maxi-corporate/img/vacancy-img-1.jpg);
   background-size: cover;
   background-position: 40% 0%;
 }
@@ -346,7 +346,7 @@
   width: 100%;
   height: 279px;
   overflow: hidden;
-  background-image: url(/img/vacancy-img-2.jpg);
+  background-image: url(https://vladislavaa.github.io/maxi-corporate/img/vacancy-img-2.jpg);
   background-size: cover;
   background-position: 40% 0%;
 }
@@ -355,7 +355,7 @@
   width: 100%;
   height: 279px;
   overflow: hidden;
-  background-image: url(/img/vacancy-img-3.jpg);
+  background-image: url(https://vladislavaa.github.io/maxi-corporate/img/vacancy-img-3.jpg);
   background-size: cover;
   background-position: 40% 0%;
 }
@@ -364,7 +364,7 @@
   width: 100%;
   height: 279px;
   overflow: hidden;
-  background-image: url(/img/vacancy-img-4.jpg);
+  background-image: url(https://vladislavaa.github.io/maxi-corporate/img/vacancy-img-4.jpg);
   background-size: cover;
   background-position: 40% 0%;
 }
@@ -373,7 +373,7 @@
   width: 100%;
   height: 279px;
   overflow: hidden;
-  background-image: url(/img/vacancy-img-5.jpg);
+  background-image: url(https://vladislavaa.github.io/maxi-corporate/img/vacancy-img-5.jpg);
   background-size: cover;
   background-position: 40% 0%;
 }
@@ -382,7 +382,7 @@
   width: 100%;
   height: 279px;
   overflow: hidden;
-  background-image: url(/img/vacancy-img-6.jpg);
+  background-image: url(https://vladislavaa.github.io/maxi-corporate/img/vacancy-img-6.jpg);
   background-size: cover;
   background-position: 40% 0%;
 }
@@ -391,7 +391,7 @@
   width: 100%;
   height: 279px;
   overflow: hidden;
-  background-image: url(/img/vacancy-img-7.jpg);
+  background-image: url(https://vladislavaa.github.io/maxi-corporate/img/vacancy-img-7.jpg);
   background-size: cover;
   background-position: 40% 0%;
 }
@@ -400,7 +400,7 @@
   width: 100%;
   height: 279px;
   overflow: hidden;
-  background-image: url(/img/vacancy-img-8.jpg);
+  background-image: url(https://vladislavaa.github.io/maxi-corporate/img/vacancy-img-8.jpg);
   background-size: cover;
   background-position: 40% 0%;
 }
@@ -679,11 +679,11 @@
 .section-offers__btn:hover {
   color: #ffffff;
   background-color: #70bd54;
-  content: url(/img/icon-arrow-offers-hover.svg);
+  content: url(https://vladislavaa.github.io/maxi-corporate/img/icon-arrow-offers-hover.svg);
 }
 
 .section-offers__btn:hover .section-offers__icon {
-  content: url(/img/icon-arrow-offers-hover.svg);
+  content: url(https://vladislavaa.github.io/maxi-corporate/img/icon-arrow-offers-hover.svg);
 }
 
 .section-offers__icon {
@@ -821,7 +821,7 @@
   width: 1600px;
   height: 653px;
   margin-top: 42px;
-  background-image: url(/img/background-products.jpg);
+  background-image: url(https://vladislavaa.github.io/maxi-corporate/img/background-products.jpg);
   background-size: cover;
   background-position: center 80%;
 }
@@ -896,7 +896,7 @@
   margin-left: 160px;
   padding-top: 102px;
   padding-left: 110px;
-  background-image: url(/img/background-contact.jpg);
+  background-image: url(https://vladislavaa.github.io/maxi-corporate/img/background-contact.jpg);
 }
 
 .section-contact__line {
@@ -1349,7 +1349,7 @@
     appearance: none;
     -webkit-appearance: none;
     -moz-appearance: none;
-    background-image: url("/img/icon-arrow.svg");
+    background-image: url("https://vladislavaa.github.io/maxi-corporate/img/icon-arrow.svg");
     background-repeat: no-repeat;
     background-position: calc(100% - 12px) center;
     padding-left: 11px;
@@ -1490,7 +1490,7 @@
     margin-left: 20px;
     padding-top: 42px;
     padding-left: 30px;
-    background-image: url(/img/mobile/background-contact.jpg);
+    background-image: url(https://vladislavaa.github.io/maxi-corporate/img/mobile/background-contact.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
