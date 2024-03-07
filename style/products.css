@@ -1,5 +1,5 @@
-@import url(/style/reset.css);
-@import url(/style/normalize.css);
+@import url(https://vladislavaa.github.io/maxi-corporate/style/reset.css);
+@import url(https://vladislavaa.github.io/maxi-corporate/style/normalize.css);
 
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap");
 
@@ -136,7 +136,7 @@
   appearance: none;
   -webkit-appearance: none;
   -moz-appearance: none;
-  background-image: url("/img/icon-arrow.svg");
+  background-image: url("https://vladislavaa.github.io/maxi-corporate/img/icon-arrow.svg");
   background-repeat: no-repeat;
   background-position: calc(100% - 16px) center;
   padding-left: 13px;
@@ -218,7 +218,7 @@
   margin-left: 1px;
   padding-top: 306px;
   padding-left: 318px;
-  background-image: url("/img/products-background-1.jpg");
+  background-image: url("https://vladislavaa.github.io/maxi-corporate/img/products-background-1.jpg");
 }
 
 .section-products__background-card-title-1 {
@@ -294,7 +294,7 @@
   margin-left: 1px;
   padding-top: 306px;
   padding-left: 281px;
-  background-image: url("/img/products-background-2.jpg");
+  background-image: url("https://vladislavaa.github.io/maxi-corporate/img/products-background-2.jpg");
 }
 
 .section-products__background-card-title-2 {
@@ -334,7 +334,7 @@
   margin-left: 1px;
   padding-top: 306px;
   padding-left: 284px;
-  background-image: url("/img/products-background-3.jpg");
+  background-image: url("https://vladislavaa.github.io/maxi-corporate/img/products-background-3.jpg");
 }
 
 .section-products__background-card-title-3 {
@@ -362,7 +362,7 @@
   margin-left: 1px;
   padding-top: 306px;
   padding-left: 292px;
-  background-image: url("/img/products-background-4.jpg");
+  background-image: url("https://vladislavaa.github.io/maxi-corporate/img/products-background-4.jpg");
 }
 
 .section-products__background-card-title-4 {
@@ -397,7 +397,7 @@
   margin-left: 160px;
   padding-top: 102px;
   padding-left: 110px;
-  background-image: url(/img/background-contact.jpg);
+  background-image: url(https://vladislavaa.github.io/maxi-corporate/img/background-contact.jpg);
 }
 
 .section-contact__line {
@@ -850,7 +850,7 @@
     appearance: none;
     -webkit-appearance: none;
     -moz-appearance: none;
-    background-image: url("/img/icon-arrow.svg");
+    background-image: url("https://vladislavaa.github.io/maxi-corporate/img/icon-arrow.svg");
     background-repeat: no-repeat;
     background-position: calc(100% - 12px) center;
     padding-left: 11px;
@@ -916,7 +916,7 @@
     margin-left: 1px;
     padding-top: 130px;
     padding-left: 130px;
-    background-image: url("/img/products-background-1.jpg");
+    background-image: url("https://vladislavaa.github.io/maxi-corporate/img/products-background-1.jpg");
     background-position: cover;
     background-repeat: no-repeat;
     background-size: 100%;
@@ -991,7 +991,7 @@
     margin-left: 1px;
     padding-top: 130px;
     padding-left: 120px;
-    background-image: url("/img/products-background-2.jpg");
+    background-image: url("https://vladislavaa.github.io/maxi-corporate/img/products-background-2.jpg");
     background-position: cover;
     background-repeat: no-repeat;
     background-size: 100%;
@@ -1026,7 +1026,7 @@
     margin-left: 1px;
     padding-top: 130px;
     padding-left: 120px;
-    background-image: url("/img/products-background-3.jpg");
+    background-image: url("https://vladislavaa.github.io/maxi-corporate/img/products-background-3.jpg");
     background-position: cover;
     background-repeat: no-repeat;
     background-size: 100%;
@@ -1063,7 +1063,7 @@
     margin-left: 1px;
     padding-top: 130px;
     padding-left: 120px;
-    background-image: url("/img/products-background-4.jpg");
+    background-image: url("https://vladislavaa.github.io/maxi-corporate/img/products-background-4.jpg");
     background-position: cover;
     background-repeat: no-repeat;
     background-size: 100%;
@@ -1093,7 +1093,7 @@
     margin-left: 20px;
     padding-top: 42px;
     padding-left: 30px;
-    background-image: url(/img/mobile/background-contact.jpg);
+    background-image: url(https://vladislavaa.github.io/maxi-corporate/img/mobile/background-contact.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
